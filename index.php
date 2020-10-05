@@ -8,5 +8,9 @@
 <body>
     <h1> Hello World </h1>
     <p> Mia Kastina </p>
+    <ul>
+    <li>satu</li>
+    <li>dua</li>
+    </ul>
 </body>
 </html>
